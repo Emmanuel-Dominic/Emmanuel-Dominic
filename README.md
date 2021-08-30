@@ -165,6 +165,7 @@ I am a Computer Engineer by profession, specialized in **Software Engineering** 
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
+![Soket.io](https://img.shields.io/badge/-Socket.io-000000?style=flat&logo=socket.io&logoColor=ffffff&labelColor=4B32C3)
 
 🤓 **Interested:** <br>
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&labelColor=21759B)
