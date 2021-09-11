@@ -136,6 +136,7 @@ I am a Computer Engineer by profession, specialized in **Software Engineering** 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
@@ -163,7 +164,6 @@ I am a Computer Engineer by profession, specialized in **Software Engineering** 
 
 📚 **Working on:** <br>
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
 ![Soket.io](https://img.shields.io/badge/-Socket.io-000000?style=flat&logo=socket.io&logoColor=ffffff&labelColor=4B32C3)
 
