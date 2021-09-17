@@ -176,10 +176,9 @@ I am a Computer Engineer by profession, specialized in **Software Engineering** 
 ###### 🚩 Highlights:
 - [x] 🌱 I’m currently learning android development
 - [x] 👯 I’m looking to collaborate on Open source projects
-<!-- - [x] 🤔 I’m looking for help with AWS -->
 - [x] 💬 Ask me about Anything
 - [x] ⚡ Fun fact: I love playing chess
-
+<!-- - [x] 🤔 I’m looking for help with AWS -->
 <!-- - [x] 🔭 I’m currently working on my website, wagtail,
 - [x] 📫 How to reach me: ematembu2@gmail.com
 - [x] 😄 Pronouns: Mate-mbu
