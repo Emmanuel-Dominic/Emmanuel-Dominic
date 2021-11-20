@@ -96,10 +96,10 @@ Here are some ideas to get you started:
 [![PRs Welcome](https://img.shields.io/badge/Profile-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Emmanuel-Dominic) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Emmanuel-Dominic.visitor-badge)](https://github.com/Emmanuel-Dominic) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Emmanuel-Dominic)
 
 <p align='left'>
-  📫 As a long-life learner more about tech and life, I am very recommendable interpersonal, a good communicator, and an excellent team player whilst maintaining Integrity and confidentiality, passionately to the mastery of my craft. And I love challenges about technologies and life because they make me a better person.
+  📫 As a long-life learner about tech and life, I am a very recommendable interperson, a good communicator, and an excellent team player whilst maintaining integrity and confidentiality, passionately to the mastery of my craft. And I love challenges about technologies and life because they make me a better person.
 </p>
 
-I am a Computer Engineer by profession, specialized in **Software Engineering**  using multiple **tools, frameworks and libraries** to generate good products in both frontend and backend development.
+I am a Computer Engineer by profession specialized in **Software Development** using mulitiple **tools, frameworks and libraries** to build world-class products, both frontend and backend.
 
 
 📝 ***Feel free to contact me. I am always here ...***
