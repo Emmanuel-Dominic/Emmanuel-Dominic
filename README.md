@@ -99,7 +99,7 @@ Here are some ideas to get you started:
   📫 As a long-life learner about tech and life, I am a very recommendable interperson, a good communicator, and an excellent team player whilst maintaining integrity and confidentiality, passionately to the mastery of my craft. And I love challenges about technologies and life because they make me a better person.
 </p>
 
-I am a Computer Engineer by profession specialized in **Software Development** using mulitiple **tools, frameworks and libraries** to build world-class products, both frontend and backend.
+I am a Computer Engineer by profession specializing in **Software Development** using multiple **tools, frameworks and libraries** to build world-class products.
 
 
 📝 ***Feel free to contact me. I am always here ...***
