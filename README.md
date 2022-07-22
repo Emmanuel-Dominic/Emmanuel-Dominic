@@ -1,5 +1,3 @@
-
--------------------------------------------------------------------------------
 <!--
 **Emmanuel-Dominic/Emmanuel-Dominic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -39,13 +37,13 @@ Here are some ideas to get you started:
 | [**Water Monitoring System**](https://github.com/Emmanuel-Dominic/Water-Monitoring-System/) | [![GitHub issues](https://img.shields.io/github/issues/Emmanuel-Dominic/Water-Monitoring-System?color=green&logo=github&style=flat)](https://github.com/Emmanuel-Dominic/Water-Monitoring-System/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Emmanuel-Dominic/Water-Monitoring-System?style=flat&logo=github)](https://github.com/Emmanuel-Dominic/Water-Monitoring-System/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Emmanuel-Dominic/Water-Monitoring-System?style=flat&color=critical&logo=github)](https://github.com/Emmanuel-Dominic/Water-Monitoring-System/pulls?q=is%3Apr+is%3Aclosed)   |
 -->
 
-<h2 align='center'>
+<h1 align='center'>
   <samp>
     <strong>
       Hi there 👋, I am Matembu Emmanuel Dominic
     </strong>
   </samp>
-</h2>
+</h1>
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
@@ -91,7 +89,7 @@ Here are some ideas to get you started:
   </strong>
 </h3> -->
 
-<p align='center'>Software Engineer | Full-stack Developer | Web developer</p>
+<h3 align='center'>Software Engineer | Full-stack Developer | DevOps Engineer</h3>
 
 [![PRs Welcome](https://img.shields.io/badge/Profile-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Emmanuel-Dominic) [![visitors](https://visitor-badge.glitch.me/badge?page_id=Emmanuel-Dominic)](https://github.com/Emmanuel-Dominic) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Emmanuel-Dominic)
 
