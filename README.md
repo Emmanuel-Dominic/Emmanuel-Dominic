@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <h1 align='center'>
   <samp>
     <strong>
-      Hi there 👋, I am Matembu Emmanuel Dominic
+      Hello 👋, I am Matembu Emmanuel Dominic
     </strong>
   </samp>
 </h1>
