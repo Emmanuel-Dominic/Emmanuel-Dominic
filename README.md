@@ -158,7 +158,7 @@ I am a Computer Engineer by profession specializing in **Software Development** 
 `Object-Oriented Programming`, `Data structures and Algorithms`, `Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`.
 
 🌍 **Deployment platforms:**<br>
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&labelColor=21759B) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=21759B) <img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&labelColor=21759B) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=21759B) ![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages&labelColor=430098)
 
 📚 **Working on:** <br>
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&labelColor=21759B)
