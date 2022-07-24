@@ -121,7 +121,6 @@ I am a Computer Engineer by profession specializing in **Software Development** 
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=ffffff&labelColor=0078D6)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes&logoColor=ffffff&labelColor=0078D6)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
-![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&labelColor=21759B)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
@@ -159,7 +158,7 @@ I am a Computer Engineer by profession specializing in **Software Development** 
 `Object-Oriented Programming`, `Data structures and Algorithms`, `Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`.
 
 🌍 **Deployment platforms:**<br>
-<img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) <!--![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)-->
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&labelColor=21759B) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=21759B) <img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages)
 
 📚 **Working on:** <br>
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&labelColor=21759B)
