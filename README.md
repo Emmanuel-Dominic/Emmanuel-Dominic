@@ -89,7 +89,7 @@ Here are some ideas to get you started:
   </strong>
 </h3> -->
 
-<h3 align='center'>Software Engineer | Full-stack Developer | DevOps Engineer | Technical Team Lead | Coding Instructor</h3>
+<h3 align='center'>Software Engineer | DevOps Engineer | Technical Team Lead | Coding Instructor</h3>
 
 [![PRs Welcome](https://img.shields.io/badge/Profile-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Emmanuel-Dominic) [![visitors](https://visitor-badge.glitch.me/badge?page_id=Emmanuel-Dominic)](https://github.com/Emmanuel-Dominic) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Emmanuel-Dominic)
 
