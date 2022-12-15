@@ -89,12 +89,12 @@ Here are some ideas to get you started:
   </strong>
 </h3> -->
 
-<h3 align='center'>Software Engineer | DevOps Engineer | Technical Team Lead | Coding Instructor</h3>
+<h3 align='center'>Software Engineer | DevOps Engineer | Team Lead | Coding Instructor</h3>
 
 [![PRs Welcome](https://img.shields.io/badge/Profile-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Emmanuel-Dominic) [![visitors](https://visitor-badge.glitch.me/badge?page_id=Emmanuel-Dominic)](https://github.com/Emmanuel-Dominic) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Emmanuel-Dominic)
 
 <p align='left'>
-  📫 As a long-life learner of tech, a good communicator, and an excellent team player whilst maintaining integrity and confidentiality to the mastery of my craft. And I love challenges in technology and life because they make me a better person.
+  📫 Being a life-long learner of technology, a good communicator, and an excellent team player whilst maintaining integrity and confidentiality is at the core of what I do. Besides, I'm constantly challenged in technology and life, which makes me a better person.
 </p>
 
 I am a Computer Engineer by profession specializing in **Software Development** using multiple **tools, frameworks and libraries** to build world-class products.
