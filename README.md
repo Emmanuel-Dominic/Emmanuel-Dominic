@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 <h3 align='center'>Software Engineer | DevOps Engineer | Team Lead | Coding Instructor</h3>
 
 [![PRs Welcome](https://img.shields.io/badge/Profile-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Emmanuel-Dominic) [![visitors](https://visitor-badge.glitch.me/badge?page_id=Emmanuel-Dominic)](https://github.com/Emmanuel-Dominic) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Emmanuel-Dominic) 
-[![Website](https://img.shields.io/website?label=ematembu.com&style=flat&url=https%3A%2F%2Fematembu.com)](https://www.ematembu.com)
+[![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.ematembu.com)
 
 <p align='left'>
   📫 Being a longlife learner of technology, a good communicator, and an excellent team player whilst maintaining integrity and confidentiality is at the core of what I do. Besides, I'm constantly challenged in technology and life, which makes me a better person.
