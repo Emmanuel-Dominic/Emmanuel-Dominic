@@ -45,7 +45,6 @@ Here are some ideas to get you started:
   </samp>
 </h1>
 
-[![Website](https://img.shields.io/website?label=ematembu.com&style=blue&url=https%3A%2F%2Fematembu.com)](https://www.ematembu.com)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 
@@ -91,7 +90,8 @@ Here are some ideas to get you started:
 
 <h3 align='center'>Software Engineer | DevOps Engineer | Team Lead | Coding Instructor</h3>
 
-[![PRs Welcome](https://img.shields.io/badge/Profile-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Emmanuel-Dominic) [![visitors](https://visitor-badge.glitch.me/badge?page_id=Emmanuel-Dominic)](https://github.com/Emmanuel-Dominic) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Emmanuel-Dominic)
+[![PRs Welcome](https://img.shields.io/badge/Profile-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Emmanuel-Dominic) [![visitors](https://visitor-badge.glitch.me/badge?page_id=Emmanuel-Dominic)](https://github.com/Emmanuel-Dominic) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Emmanuel-Dominic) 
+[![Website](https://img.shields.io/website?label=ematembu.com&style=flat&url=https%3A%2F%2Fematembu.com)](https://www.ematembu.com)
 
 <p align='left'>
   📫 Being a longlife learner of technology, a good communicator, and an excellent team player whilst maintaining integrity and confidentiality is at the core of what I do. Besides, I'm constantly challenged in technology and life, which makes me a better person.
