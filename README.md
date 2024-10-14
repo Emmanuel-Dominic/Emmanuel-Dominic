@@ -137,6 +137,7 @@ I am a Computer Engineer by profession specializing in **Software Development** 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
 ![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
 <!--
